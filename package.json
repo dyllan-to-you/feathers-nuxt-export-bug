@@ -29,7 +29,7 @@
     "cross-env": "^5.2.0",
     "feathers-hooks-common": "^5.0.3",
     "feathers-vuex": "^3.11.5",
-    "nuxt": "^2.13.0",
+    "nuxt": "^3.4.3",
     "nuxt-client-init-module": "^0.1.8",
     "nuxt-stripe-module": "^2.1.0",
     "nuxtjs-mdi-font": "^1.0.2"
